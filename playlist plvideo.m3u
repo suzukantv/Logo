@@ -41,6 +41,8 @@ https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_713325/132544360/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/WWW.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="plvideo",WWW
 https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" $ExtFilter="plvideo",Кино Стрим Live
+https://132544.edgevideo.ru/streams/132544_934478/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="plvideo",Кинозал! Millennium
 https://132544.edgevideo.ru/streams/132544_931202/132544720/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VideoArsenal.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="plvideo",Кинозал! VideoArsenal HD
