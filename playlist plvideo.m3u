@@ -1,4 +1,6 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/3x3.png" $ExtFilter="plvideo",3х3
+https://132544.edgevideo.ru/streams/132544_851837/132544720/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Dimpon%20TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="plvideo",Dimpon TV
 https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/FantasticMystiC.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="plvideo",FantasticMystiC
