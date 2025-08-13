@@ -1,35 +1,57 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/FantasticMystiC.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",FantasticMystiC
-https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/KinoMix.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",KinoMix
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",Millennium
-https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH%20TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",SCRIPACH TV
-https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",SeleCaoTV 1
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",SeleCaoTV 2
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeriesTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",SeriesTV
-https://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Techno%20Dance%20Music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",Techno Dance Music
-https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/TMF%20RUS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",TMF RUS
-https://132544.edgevideo.ru/streams/132544_932351/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",VA Millennium адаптивная
-https://132544.edgevideo.ru/streams/132544_931202/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VHDV%20TV%20Ultra.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",VHDV TV Ultra
-https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VideoArsenal.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",VideoArsenal HD адаптивная
-https://132544.edgevideo.ru/streams/132544_931730/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/WWW.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",WWW
-https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",Кинозал! Millennium
-https://132544.edgevideo.ru/streams/132544_931202/132544720/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VideoArsenal.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",Кинозал! VideoArsenal HD
-https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/МУЛЬТИКИ%20И%20СКАЗКИ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",МУЛЬТИКИ И СКАЗКИ
-https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-#EXTINF:-1 group-title="Кинозалы | plvideo 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Секс%20в%20большом%20городе.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="playlist plvideo",Секс в большом городе
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" $ExtFilter="SuzuS TV2",VIVA RUSSIA
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0926/ee/5599856d39c337fe5069023f4b8a76ee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Viva HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VIVA RUSSIA
+https://132544.edgevideo.ru/streams/132544_713325/132544360/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Секс%20в%20большом%20городе.png" $ExtFilter="SuzuS TV2",Секс в большом городе
 https://132544.edgevideo.ru/streams/132544_824978/132544360/index.m3u8
+#EXTINF:-1 group-title="Общие 🌐" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Россия 1
+https://132544.edgevideo.ru/streams/132544_909236/132544360/index.m3u8
+#EXTINF:-1 group-title="Общие 🌐" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Первый канал HD
+https://132544.edgevideo.ru/streams/132544_928487/132544480/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" $ExtFilter="SuzuS TV2",Re TV
+https://132544.edgevideo.ru/streams/132544_929546/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Techno%20Dance%20Music.png" $ExtFilter="SuzuS TV2",Techno Dance Music
+https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" $ExtFilter="SuzuS TV2",Millennium
+https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" $ExtFilter="SuzuS TV2",Кинозал! Millennium
+https://132544.edgevideo.ru/streams/132544_931202/132544720/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VA%20Millennium.png" $ExtFilter="SuzuS TV2",VA Millennium адаптивная
+https://132544.edgevideo.ru/streams/132544_931202/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" $ExtFilter="SuzuS TV2",Retro Music HD
+https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="https://thumbs.dreamstime.com/b/retro-music-sticker-recorder-55010572.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RETRO Music Hits
+https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeriesTV.jpg" $ExtFilter="SuzuS TV2",SeriesTV
+https://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/FantasticMystiC.png" $ExtFilter="SuzuS TV2",FantasticMystiC
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/WWW.jpg" $ExtFilter="SuzuS TV2",WWW
+https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/МУЛЬТИКИ%20И%20СКАЗКИ.png" $ExtFilter="SuzuS TV2",МУЛЬТИКИ И СКАЗКИ
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VideoArsenal.png" $ExtFilter="SuzuS TV2",Кинозал! VideoArsenal HD
+https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VideoArsenal.png" $ExtFilter="SuzuS TV2",VideoArsenal HD адаптивная
+https://132544.edgevideo.ru/streams/132544_931730/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/VHDV%20TV%20Ultra.png" $ExtFilter="SuzuS TV2",VHDV TV Ultra
+https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/TMF%20RUS.png" $ExtFilter="SuzuS TV2",TMF RUS
+https://132544.edgevideo.ru/streams/132544_932351/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Dimpon%20TV.jpg" $ExtFilter="SuzuS TV2",Dimpon TV
+https://132544.edgevideo.ru/streams/132544_933542/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/MetalAlex.jpg" $ExtFilter="SuzuS TV2",MetalAlex
+https://132544.edgevideo.ru/streams/132544_934433/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/Kino-Jam.png" $ExtFilter="SuzuS TV2",KinoJam HD
+https://132544.edgevideo.ru/streams/132544_934478/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SCRIPACH%20TV.jpg" $ExtFilter="SuzuS TV2",SCRIPACH TV
+https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/KinoMix.jpg" $ExtFilter="SuzuS TV2",KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" $ExtFilter="SuzuS TV2",SeleCaoTV 1
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы | Premium 🎬📽🍿" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" $ExtFilter="SuzuS TV2",SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
